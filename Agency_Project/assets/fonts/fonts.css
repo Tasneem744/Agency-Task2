@@ -1,0 +1,19 @@
+:root {
+  --bold-Gilroy: "Gilroy-Bold";
+  --bold-Gilroy-w-24: 24px;
+  --regular-Gilroy: "Gilroy-Regular";
+  --regular-Gilroy-w-19: 19px;
+  --regular-Gilroy-w-17: 17px;
+}
+
+@font-face {
+  font-family: "Gilroy-Bold";
+  src: url("./Gilroy-Bold.ttf");
+  font-weight: 24; }
+
+@font-face {
+  font-family: "Gilroy-Regular";
+  src: url("./Gilroy-Regular.ttf");
+  font-weight: 19;
+}
+
